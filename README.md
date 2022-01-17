@@ -3,5 +3,10 @@ The study of the structural properties of the Microblog WCN for six different ne
 
 The study of structure and dynamics of complex networks has gained attention and witnessed growth in recent years. There are existing works on the Word Co-occurrence Networks (WCN) for English and Chinese languages. We explore the network science properties to study the structure of WCN for microblogs. The key parameters for microblogs WCN are _scale-free property, small world feature, hierarchical organization, assortativity and spectral analysis_.
 
+# Observations
 
+1. The microblog WCN follows the **scale-free property**. 
+2. This network contains the **small world feature** with relatively reduced path length and very high clustering coefficient than that of random networks. 
+3. The microblog WCN is **disassortative** in nature which indicates that high degree nodes avoid connecting to high degree nodes. 
+4. Hierarchical organization gives more acute observations for large dataset and we found that the network is **partially hierarchically organized**. 
 
